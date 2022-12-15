@@ -1,2 +1,2 @@
 beta gama delta
-// git fetch
+// git fetch   --author name
